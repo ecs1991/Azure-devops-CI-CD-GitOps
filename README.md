@@ -1,6 +1,6 @@
 # To do this project on azure devops checkout the blog --->
 
 [Blog Link.
-](https://aakibkhan1.medium.com/project-16-end-to-end-automation-with-azure-devops-ci-cd-pipelines-0ca4ff37cf25)
+](https://medium.com/@emeraldconsultingservices43/building-end-to-end-automation-with-azure-devops-and-gitops-ci-cd-pipelines-9e6a0fe157a0)
 
 
